@@ -1,0 +1,32 @@
+package com.example.budgetly.data.remote.remote_models.banking.account
+
+data class TransactionSchema(
+    val transactionId: String? = null,
+    val entryReference: String? = null,
+    val endToEndId: String? = null,
+    val mandateId: String? = null,
+    val checkId: String? = null,
+    val creditorId: String? = null,
+    val bookingDate: String? = null,
+    val valueDate: String? = null,
+    val bookingDateTime: String? = null,
+    val valueDateTime: String? = null,
+    val transactionAmount: TransactionAmountSchema,
+    val currencyExchange: CurrencyExchangeSchema? = null,
+    val creditorName: String? = null,
+    val creditorAccount: AccountSchema? = null,
+    val ultimateCreditor: String? = null,
+    val debtorName: String? = null,
+    val debtorAccount: AccountSchema? = null,
+    val ultimateDebtor: String? = null,
+    val remittanceInformationUnstructured: String? = null,
+    val remittanceInformationUnstructuredArray: List<String>? = null,
+    val remittanceInformationStructured: String? = null,
+    val remittanceInformationStructuredArray: List<String>? = null,
+    val additionalInformation: String? = null,
+    val purposeCode: String? = null,
+    val bankTransactionCode: String? = null,
+    val proprietaryBankTransactionCode: String? = null,
+    val internalTransactionId: String? = null,
+    val balanceAfterTransaction: BalanceAfterTransactionSchema? = null
+)

@@ -1,0 +1,23 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:height="24dp" android:viewportHeight="682.67" android:viewportWidth="682.67" android:width="24dp">
+      
+    <group>
+            
+        <clip-path android:pathData="M0,0l682.66,-0L682.66,682.67L0,682.67Z"/>
+            
+        <path android:fillColor="#00000000" android:pathData="M662.67,341.33c0,114.39 -92.73,207.12 -207.12,207.12 -114.39,-0 -207.12,-92.73 -207.12,-207.12 0,-114.39 92.73,-207.12 207.12,-207.12C569.94,134.22 662.67,226.95 662.67,341.33Z" android:strokeColor="#000000" android:strokeLineCap="butt" android:strokeLineJoin="miter" android:strokeWidth="40"/>
+            
+        <path android:fillColor="#00000000" android:pathData="M172.4,227.2l-124.96,-0" android:strokeColor="#000000" android:strokeLineCap="butt" android:strokeLineJoin="miter" android:strokeWidth="40"/>
+            
+        <path android:fillColor="#00000000" android:pathData="M172.4,455.47l-124.96,-0" android:strokeColor="#000000" android:strokeLineCap="butt" android:strokeLineJoin="miter" android:strokeWidth="40"/>
+            
+        <path android:fillColor="#00000000" android:pathData="M172.4,341.33l-172.4,-0" android:strokeColor="#000000" android:strokeLineCap="butt" android:strokeLineJoin="miter" android:strokeWidth="40"/>
+            
+        <path android:fillColor="#00000000" android:pathData="M413.05,383.83c0,23.47 19.03,42.49 42.49,42.49 23.47,-0 42.49,-19.03 42.49,-42.49 0,-23.47 -19.03,-42.49 -42.49,-42.49C432.08,341.33 413.05,322.31 413.05,298.84c0,-23.47 19.03,-42.49 42.49,-42.49 23.47,-0 42.49,19.03 42.49,42.49" android:strokeColor="#000000" android:strokeLineCap="butt" android:strokeLineJoin="miter" android:strokeWidth="40"/>
+            
+        <path android:fillColor="#00000000" android:pathData="M455.55,256.35l0,-49.2" android:strokeColor="#000000" android:strokeLineCap="butt" android:strokeLineJoin="miter" android:strokeWidth="40"/>
+            
+        <path android:fillColor="#00000000" android:pathData="M455.55,426.32l0,49.2" android:strokeColor="#000000" android:strokeLineCap="butt" android:strokeLineJoin="miter" android:strokeWidth="40"/>
+          
+    </group>
+    
+</vector>

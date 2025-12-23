@@ -1,0 +1,32 @@
+package com.example.budgetly.domain.models.api.banking.transaction
+
+data class TransactionSchemaModel(
+    val transactionId: String? = null,
+    val entryReference: String? = null,
+    val endToEndId: String? = null,
+    val mandateId: String? = null,
+    val checkId: String? = null,
+    val creditorId: String? = null,
+    val bookingDate: String? = null,
+    val valueDate: String? = null,
+    val bookingDateTime: String? = null,
+    val valueDateTime: String? = null,
+    val transactionAmount: com.example.budgetly.domain.models.api.banking.transaction.TransactionAmountSchemaModel,
+    val currencyExchange: com.example.budgetly.domain.models.api.banking.transaction.CurrencyExchangeSchemaModel? = null,
+    val creditorName: String? = null,
+    val creditorAccount: com.example.budgetly.domain.models.api.banking.account.AccountSchemaModel? = null,
+    val ultimateCreditor: String? = null,
+    val debtorName: String? = null,
+    val debtorAccount: com.example.budgetly.domain.models.api.banking.account.AccountSchemaModel? = null,
+    val ultimateDebtor: String? = null,
+    val remittanceInformationUnstructured: String? = null,
+    val remittanceInformationUnstructuredArray: List<String>? = null,
+    val remittanceInformationStructured: String? = null,
+    val remittanceInformationStructuredArray: List<String>? = null,
+    val additionalInformation: String? = null,
+    val purposeCode: String? = null,
+    val bankTransactionCode: String? = null,
+    val proprietaryBankTransactionCode: String? = null,
+    val internalTransactionId: String? = null,
+    val balanceAfterTransaction: com.example.budgetly.domain.models.api.banking.balance.BalanceAfterTransactionSchemaModel? = null
+)

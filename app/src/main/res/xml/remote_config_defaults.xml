@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMap>
+
+    <!-- Timers -->
+    <entry>
+        <key>SPLASH_TIME</key>
+        <value>13</value>
+    </entry>
+    <entry>
+        <key>CONSENT_TIME</key>
+        <value>8</value>
+    </entry>
+    <entry>
+        <key>MAIN_COUNTER_MIN</key>
+        <value>2</value>
+    </entry>
+    <entry>
+        <key>MAIN_COUNTER_MAX</key>
+        <value>3</value>
+    </entry>
+
+    <!-- Splash Ads -->
+    <entry>
+        <key>FIRST_SPLASH_AD_TYPE</key>
+        <value>INTERSTITIAL</value>
+    </entry>
+    <entry>
+        <key>FIRST_SPLASH_AD_ENABLED</key>
+        <value>true</value>
+    </entry>
+
+    <entry>
+        <key>RETURNING_SPLASH_AD_TYPE</key>
+        <value>AppOpen</value>
+    </entry>
+    <entry>
+        <key>RETURNING_SPLASH_AD_ENABLED</key>
+        <value>true</value>
+    </entry>
+
+    <!-- App Open Ad -->
+    <entry>
+        <key>APP_OPEN_AD_ENABLED</key>
+        <value>false</value>
+    </entry>
+
+    <!-- Feature Clicks -->
+    <entry>
+        <key>MAIN_FEATURE_AD_ENABLED</key>
+        <value>true</value>
+    </entry>
+    <entry>
+        <key>BANKING_BACK_AD_ENABLED</key>
+        <value>true</value>
+    </entry>
+    <entry>
+        <key>CASH_BACK_AD_ENABLED</key>
+        <value>true</value>
+    </entry>
+    <entry>
+        <key>ASSISTANT_BACK_AD_ENABLED</key>
+        <value>true</value>
+    </entry>
+    <entry>
+        <key>RECEIPT_BACK_AD_ENABLED</key>
+        <value>true</value>
+    </entry>
+    <entry>
+        <key>NOTIFICATION_BACK_AD_ENABLED</key>
+        <value>true</value>
+    </entry>
+
+    <!-- Native Ads Enabled Flags -->
+    <entry>
+        <key>MAIN_NATIVE_ENABLED</key>
+        <value>true</value>
+    </entry>
+    <entry>
+        <key>BANKING_NATIVE_ENABLED</key>
+        <value>true</value>
+    </entry>
+    <entry>
+        <key>ASSISTANT_NATIVE_ENABLED</key>
+        <value>true</value>
+    </entry>
+    <entry>
+        <key>ASSISTANT_HISTORY_NATIVE_ENABLED</key>
+        <value>true</value>
+    </entry>
+    <entry>
+        <key>ACCOUNT_NATIVE_ENABLED</key>
+        <value>true</value>
+    </entry>
+    <entry>
+        <key>PIE_CHART_NATIVE_ENABLED</key>
+        <value>true</value>
+    </entry>
+    <entry>
+        <key>PIE_CHART_MAIN_NATIVE_ENABLED</key>
+        <value>true</value>
+    </entry>
+    <entry>
+        <key>EXPENSE_NATIVE_ENABLED</key>
+        <value>true</value>
+    </entry>
+    <entry>
+        <key>INCOME_NATIVE_ENABLED</key>
+        <value>true</value>
+    </entry>
+    <entry>
+        <key>TRANSACTION_NATIVE_ENABLED</key>
+        <value>true</value>
+    </entry>
+    <entry>
+        <key>GRAPH_NATIVE_ENABLED</key>
+        <value>true</value>
+    </entry>
+    <entry>
+        <key>RECEIPT_NATIVE_ENABLED</key>
+        <value>true</value>
+    </entry>
+    <entry>
+        <key>RECEIPT_HISTORY_NATIVE_ENABLED</key>
+        <value>true</value>
+    </entry>
+
+    <!-- Banners -->
+    <entry>
+        <key>MAIN_BANNER_ENABLED</key>
+        <value>true</value>
+    </entry>
+    <entry>
+        <key>SPLASH_BANNER_ENABLED</key>
+        <value>true</value>
+    </entry>
+    <entry>
+        <key>NOTIFICATION_BANNER_ENABLED</key>
+        <value>true</value>
+    </entry>
+    <entry>
+        <key>RECEIPT_BANNER_ENABLED</key>
+        <value>true</value>
+    </entry>
+
+    <!-- Layouts (All = SplitNative) -->
+    <entry>
+        <key>RECEIPT_NATIVE_LAYOUT</key>
+        <value>SplitNative</value>
+    </entry>
+    <entry>
+        <key>RECEIPT_HISTORY_NATIVE_LAYOUT</key>
+        <value>SplitNative</value>
+    </entry>
+    <entry>
+        <key>MAIN_NATIVE_LAYOUT</key>
+        <value>SplitNative</value>
+    </entry>
+    <entry>
+        <key>INCOME_NATIVE_LAYOUT</key>
+        <value>SplitNative</value>
+    </entry>
+    <entry>
+        <key>EXPENSE_NATIVE_LAYOUT</key>
+        <value>SplitNative</value>
+    </entry>
+    <entry>
+        <key>BANKING_NATIVE_LAYOUT</key>
+        <value>SplitNative</value>
+    </entry>
+    <entry>
+        <key>ASSISTANT_NATIVE_LAYOUT</key>
+        <value>SplitNative</value>
+    </entry>
+    <entry>
+        <key>ASSISTANT_HISTORY_NATIVE_LAYOUT</key>
+        <value>SplitNative</value>
+    </entry>
+    <entry>
+        <key>TRANSACTION_NATIVE_LAYOUT</key>
+        <value>SplitNative</value>
+    </entry>
+    <entry>
+        <key>GRAPH_NATIVE_LAYOUT</key>
+        <value>SplitNative</value>
+    </entry>
+    <entry>
+        <key>PIE_CHART_NATIVE_LAYOUT</key>
+        <value>SplitNative</value>
+    </entry>
+    <entry>
+        <key>PIE_CHART_MAIN_NATIVE_LAYOUT</key>
+        <value>SplitNative</value>
+    </entry>
+    <entry>
+        <key>ACCOUNT_NATIVE_LAYOUT</key>
+        <value>SplitNative</value>
+    </entry>
+
+</defaultsMap>

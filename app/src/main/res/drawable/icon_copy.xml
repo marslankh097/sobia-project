@@ -1,0 +1,13 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:height="24dp" android:viewportHeight="30" android:viewportWidth="30" android:width="24dp">
+      
+    <path android:fillColor="#000000" android:fillType="evenOdd" android:pathData="M19.5,12a0.5,0.5 0,1 0,0 -1h-9a0.5,0.5 0,1 0,0 1zM19.5,15a0.5,0.5 0,1 0,0 -1h-9a0.5,0.5 0,1 0,0 1zM19.5,18a0.5,0.5 0,1 0,0 -1h-9a0.5,0.5 0,1 0,0 1zM15.5,21a0.5,0.5 0,1 0,0 -1h-5a0.5,0.5 0,1 0,0 1z"/>
+      
+    <path android:fillColor="#000000" android:fillType="evenOdd" android:pathData="M24.5,3a0.5,0.5 0,0 1,0.5 0.5v24a0.5,0.5 0,0 1,-0.5 0.5L5.5,28a0.5,0.5 0,0 1,-0.5 -0.5v-24A0.5,0.5 0,0 1,5.5 3L13,3v1L6,4v23h18L24,4h-7L17,3z"/>
+      
+    <path android:fillColor="#000000" android:fillType="evenOdd" android:pathData="M22.5,5a0.5,0.5 0,0 1,0.5 0.5v20a0.5,0.5 0,0 1,-0.5 0.5h-15a0.5,0.5 0,0 1,-0.5 -0.5v-20a0.5,0.5 0,0 1,0.5 -0.5L12,5v1L8,6v19h14L22,6h-4L18,5z"/>
+      
+    <path android:fillColor="#000000" android:fillType="evenOdd" android:pathData="M15,4m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0"/>
+      
+    <path android:fillColor="#000000" android:fillType="evenOdd" android:pathData="M12,4.996h-0.5a0.5,0.5 0,0 0,-0.5 0.5L11,7.5a0.5,0.5 0,0 0,0.5 0.5h7a0.5,0.5 0,0 0,0.5 -0.5L19,5.496a0.5,0.5 0,0 0,-0.5 -0.5L18,4.996L18,4a3,3 0,0 0,-6 0zM13,5.496L13,4a2,2 0,1 1,4 0v1.496a0.5,0.5 0,0 0,0.5 0.5h0.5L18,7L12,7L12,5.996h0.5a0.5,0.5 0,0 0,0.5 -0.5z"/>
+    
+</vector>

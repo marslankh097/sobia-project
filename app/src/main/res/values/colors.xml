@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="text_color">#404040</color>
+    <color name="default_bg_color">#F1F1F1</color>
+    <color name="secondary_bg_color">#ECF6FA</color>
+    <color name="shimmer_color">#C2C2C2</color>
+    <color name="hint_color">#A0A0A0</color>
+    <color name="primary_color">#018786</color>
+    <color name="secondary_color">#00BCD4</color>
+    <color name="ads_bg_color">#EFF5FF</color>
+<!--    <color name="ads_border_color">#E7E6E6</color>-->
+    <color name="ads_border_color">#CECECE</color>
+</resources>
